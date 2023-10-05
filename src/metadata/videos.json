@@ -1,0 +1,56 @@
+[
+    {
+        "url": "/videos/sample_video1.webm",
+        "channel": "EattheBlocks",
+        "description": "The biggest crypto conference in Taiwan",
+        "song": "Your song name goes here",
+        "likes": 13,
+        "messages": 38,
+        "shares": 100
+    },  
+    {
+        "url": "/videos/sample_video2.webm",
+        "channel": "TheWoodsProject",
+        "description": "The truth about using Assembly in Solidity",
+        "song": "Your song ",
+        "likes": 1043,
+        "messages": 98,
+        "shares": 10000
+    },
+    {
+        "url": "/videos/sample_video3.webm",
+        "channel": "SpaceFlightProject",
+        "description": "An application that displays SpaceX flights data",
+        "song": "Another cool song",
+        "likes": 135,
+        "messages": 368,
+        "shares": 204
+    },  
+    {
+        "url": "/videos/sample_video1.webm",
+        "channel": "TodoListProject",
+        "description": "An application that displays a list of todos",
+        "song": "Good song",
+        "likes": 1903,
+        "messages": 1398,
+        "shares": 1234
+    },
+    {
+        "url": "/videos/sample_video2.webm",
+        "channel": "SpaceFlightProject",
+        "description": "An application that displays SpaceX flights data",
+        "song": "Sweet song",
+        "likes": 15,
+        "messages": 682,
+        "shares": 4
+    },  
+    {
+        "url": "/videos/sample_video3.webm",
+        "channel": "TodoListProject",
+        "description": "An application that displays a list of todos",
+        "song": "Funny song",
+        "likes": 10,
+        "messages": 18,
+        "shares": 4
+    }
+]
