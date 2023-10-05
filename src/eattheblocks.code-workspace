@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../../context"
+		},
+		{
+			"path": "../../todo-list"
 		}
 	],
 	"settings": {}
